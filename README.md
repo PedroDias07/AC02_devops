@@ -1,6 +1,5 @@
 Pedro Henrique Domingues Dias - RA 1903745
 
-Exemplo comando clone:
 1 - Criando um repositorio via interface (print-01)
 2 - Ls mostrando diretório vazio (print-02)
 3 - Clone (print-03)
@@ -9,5 +8,3 @@ Exemplo comando clone:
 6 - Add prints (print-06)
 7 - commit (print-07)
 8 - git push (print-08)
-
-
